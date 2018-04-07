@@ -1,4 +1,4 @@
-# text-hover-effects-in-css
+# Text Animation/Effects on Hover
 Text Hover Effect in CSS
 
 <a href="https://designdrastic.com/snippet/text-hover-effects-in-css"><strong>View Post</strong></a>
