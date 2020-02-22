@@ -22,12 +22,6 @@ Under which license you are providing these templates?
 I want to remove designdrastic.com backlink from template. How can I?
 * You can contact us for the same and we will guide you on how to pay for it.
 
-Does these templates work on smarpthone based on iPhone, Android platforms and desktop browsers?
-* Yes, all of templates work with all devices.
-
-Does this template can be used to build WordPress themes?
-* You can use the templates to build WordPress themes but must should credit us.
-
 ### Installation
 
 - Clone or Download the ZIP. 
